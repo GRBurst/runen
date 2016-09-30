@@ -1,5 +1,5 @@
 [package]
-name = "rust-neural-network"
+name = "runen"
 version = "0.1.0"
 authors = ["GRBurst <JuliusE89@gmail.com>"]
 
